@@ -967,8 +967,7 @@ http://megauhd.online:8080/live/Mj18@18/Mj18@18/402094.m3u8
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/402095.m3u8
 #EXTINF:-1 type="stream" tvg-id="PEPPA PIG" tvg-logo="http://megauhd.online:8080/images/6fcc9ebd58c7e89818fcc0ac4b9272f7.jpg" group-title="CANAIS 24H (DESENHOS)",PEPPA PIG
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/402913.m3u8
-#EXTINF:-1 type="stream" tvg-id="PLAYBOY FHD" tvg-logo="http://megauhd.online:8080/images/2092d1baf7409fe43d176878d656b4ae.png" group-title="LIVE +18",PLAYBOY FHD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352642.m3u8
+
 #EXTINF:-1 type="stream" tvg-id="POLICIA 24 HORAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMpKUXKcG0h4ucQ6ntQu25z0YMtReMp2aCd6o9iJF3chh6Ykq5SgNhGkDIGHshUeYH2AA&usqp=CAU" group-title="CANAIS 24H (SERIES DE TV)",POLICIA 24 HORAS
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/403020.m3u8
 #EXTINF:-1 type="stream" tvg-id="POLISHOP TV HD" tvg-logo="http://cdnmega.megauhd.online:8080/images/f6232c36781bcc9da2bf8b7f86394f18.png" group-title="VARIEDADES",POLISHOP TV HD
@@ -1153,14 +1152,6 @@ http://megauhd.online:8080/live/Mj18@18/Mj18@18/352091.m3u8
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/352079.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT SP HD" tvg-logo="http://megauhd.online:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="ABERTOS ",SBT SP HD
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/352093.m3u8
-#EXTINF:-1 type="stream" tvg-id="SEX PRIVE FHD" tvg-logo="http://megauhd.online:8080/images/ecbacead4451d2e497417f89469fe487.png" group-title="LIVE +18",SEX PRIVE FHD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352643.m3u8
-#EXTINF:-1 type="stream" tvg-id="SEX PRIVE HD" tvg-logo="http://megauhd.online:8080/images/ecbacead4451d2e497417f89469fe487.png" group-title="LIVE +18",SEX PRIVE HD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352644.m3u8
-#EXTINF:-1 type="stream" tvg-id="SEXY HOT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSum5701tYqQrUoDeQ0YCPTZeZ2pX1A748XTYKlNXLT0V9Sl-P6fWe4Y9sscEsw5GAy3Po&usqp=CAU" group-title="LIVE +18",SEXY HOT FHD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/400818.m3u8
-#EXTINF:-1 type="stream" tvg-id="SEXY HOT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSum5701tYqQrUoDeQ0YCPTZeZ2pX1A748XTYKlNXLT0V9Sl-P6fWe4Y9sscEsw5GAy3Po&usqp=CAU" group-title="LIVE +18",SEXY HOT HD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/400817.m3u8
 #EXTINF:-1 type="stream" tvg-id="SHE-RA" tvg-logo="http://megauhd.online:8080/images/33673241c6e39fa5d31ad7d3eee6b577.jpg" group-title="CANAIS 24H (DESENHOS)",SHE-RA
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/402906.m3u8
 #EXTINF:-1 type="stream" tvg-id="Shoptime FHD" tvg-logo="http://megauhd.online:8080/images/faa0102c11afed3ebde0d80dba20a6cc.png" group-title="VARIEDADES",Shoptime FHD
@@ -1459,8 +1450,6 @@ http://megauhd.online:8080/live/Mj18@18/Mj18@18/369345.m3u8
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/352014.m3u8
 #EXTINF:-1 type="stream" tvg-id="Universal TV HD" tvg-logo="http://megauhd.online:8080/images/69ad8ca9bc2b988dfb77d002eb40db28.png" group-title="FILMES E SERIES ",Universal TV HD
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/352059.m3u8
-#EXTINF:-1 type="stream" tvg-id="VENUS" tvg-logo="http://megauhd.online:8080/images/820f27e5337e222599c7cf6434dfc80a.png" group-title="LIVE +18",VENUS
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352645.m3u8
 #EXTINF:-1 type="stream" tvg-id="Viva 4K" tvg-logo="http://megauhd.online:8080/images/d8451360c9eb181a3fbd8e1e4e3e6ea2.png" group-title="CANAIS 4K",Viva 4K
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/369346.m3u8
 #EXTINF:-1 type="stream" tvg-id="VIVA FHD" tvg-logo="http://megauhd.online:8080/images/d8451360c9eb181a3fbd8e1e4e3e6ea2.png" group-title="VARIEDADES",VIVA FHD
@@ -1479,44 +1468,6 @@ http://megauhd.online:8080/live/Mj18@18/Mj18@18/352453.m3u8
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/402930.m3u8
 #EXTINF:-1 type="stream" tvg-id="X-MEN SERIE ANIMADA" tvg-logo="http://megauhd.online:8080/images/56aff344db5fb99290bb7598c4a37829.jpg" group-title="CANAIS 24H (DESENHOS)",X-MEN SERIE ANIMADA
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/402897.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 01" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 01
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352646.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 02" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 02
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352647.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 03" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 03
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352648.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 04" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 04
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352649.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 05" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 05
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352650.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 06" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 06
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352651.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 07" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 07
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352652.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 08" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 08
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352653.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 09" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 09
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352654.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 12" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 12
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352655.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 13" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 13
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352656.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 14" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 14
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352657.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: ADULTOS 15" tvg-logo="http://megauhd.online:8080/images/0d00d48cbed4b64e458356bb88978a36.png" group-title="LIVE +18",XXX: ADULTOS 15
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352658.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: Jasmin TV HD" tvg-logo="http://megauhd.online:8080/images/a5f94ce3c524b30784606815ad330e59.png" group-title="LIVE +18",XXX: Jasmin TV HD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352637.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: Playboy HD" tvg-logo="http://megauhd.online:8080/images/2cfaec21dea9935fac8177867adde7a7.png" group-title="LIVE +18",XXX: Playboy HD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352638.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: Sextreme" tvg-logo="http://megauhd.online:8080/images/be3ee8e6710dbdd2ddf35f5b6729572b.png" group-title="LIVE +18",XXX: Sextreme
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352639.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: Sexy FHD" tvg-logo="http://megauhd.online:8080/images/b3658cfc746c153f35a7d0569e6c7520.png" group-title="LIVE +18",XXX: Sexy FHD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352640.m3u8
-#EXTINF:-1 type="stream" tvg-id="XXX: Venus HD" tvg-logo="http://megauhd.online:8080/images/a5717a649d346ed0c51be68888c130cd.png" group-title="LIVE +18",XXX: Venus HD
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/352641.m3u8
-#EXTINF:-1 type="stream" tvg-id="YU YU HAKUSHO" tvg-logo="http://megauhd.online:8080/images/17eed07b3caeffae32d37b3eb3c878a2.jpg" group-title="CANAL 24H (ANIMES)",YU YU HAKUSHO
-http://megauhd.online:8080/live/Mj18@18/Mj18@18/402886.m3u8
 #EXTINF:-1 type="stream" tvg-id="ZOOMO FHD" tvg-logo="http://megauhd.online:8080/images/d4a8e77b8d4e175119c5bc0276b73003.png" group-title="INFANTIL",ZOOMO FHD
 http://megauhd.online:8080/live/Mj18@18/Mj18@18/352455.m3u8
 #EXTINF:-1 type="stream" tvg-id="ZOOMOO HD" tvg-logo="http://megauhd.online:8080/images/d4a8e77b8d4e175119c5bc0276b73003.png" group-title="INFANTIL",ZOOMOO HD
